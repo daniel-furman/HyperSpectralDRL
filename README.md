@@ -1,4 +1,4 @@
-# HyperSpectralRL_V2
+# HyperSpectralDRL
 
 Final project for CS285, Deep RL, UC Berkeley F22. 
 
